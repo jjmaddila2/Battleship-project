@@ -4,3 +4,7 @@ Now that I am done with that I will start on the actuall c++ code
 Will use a library to create functionality with buttons cause that would be helpful.
 Started with the c++ code got a little done and created some functionality but still needs a lot of work. Just got some of the basic player, ship and board classes. This week I will continue working AI and make sure the evaulation goes. But will also have to start creating tests and start graphic before next week.
 The library I'm using is simply the GUI library that is avilable through openFrameworks.
+
+After this last week I am done with all of the actual logic involved with my code. This basically means that I have created my AI, it works by going through every square and see if every possible ship can be placed. The higher the number of ships the higher the probibilty. If the AI does get a hit then it will look around the hit untill it kills an entire ship then it will start using probility to find another good location to hit.
+I also got it so the player can place ships in the direction and location of their choice. Also, the AI places their ships at random.
+For UI, it is really to make a coordinate plane, so I made button matrix using a library (ofxDatGui), and I am right now currently making the button matrix where two boards will be avilable but the player can only fire on one of the boards. Then I will be done, but I got a lot of work to do in the next week.
