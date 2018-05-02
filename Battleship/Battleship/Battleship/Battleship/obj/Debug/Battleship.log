@@ -1,0 +1,6 @@
+﻿  battleship.cpp
+battleship.cpp(188): warning C4018: '<': signed/unsigned mismatch
+  Battleship.vcxproj -> C:\Users\jjmad\Downloads\of_v0.9.8_vs_release (1)\of_v0.9.8_vs_release\Battleship\Battleship\bin\Battleship_debug.exe
+  Battleship.vcxproj -> bin\Battleship_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\jjmad\Downloads\of_v0.9.8_vs_release (1)\of_v0.9.8_vs_release\export\vs\Win32\
