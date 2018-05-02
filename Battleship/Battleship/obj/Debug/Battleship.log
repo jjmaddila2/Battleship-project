@@ -1,0 +1,11 @@
+﻿  battleship.cpp
+  main.cpp
+  ofApp.cpp
+  player.cpp
+battleship.cpp(99): warning C4018: '<': signed/unsigned mismatch
+battleship.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\jjmad\downloads\of_v0.9.8_vs_release (1)\of_v0.9.8_vs_release\battleship\battleship\player.cpp(64): warning C4715: 'player::place_ship': not all control paths return a value
+  Battleship.vcxproj -> C:\Users\jjmad\Downloads\of_v0.9.8_vs_release (1)\of_v0.9.8_vs_release\Battleship\Battleship\bin\Battleship_debug.exe
+  Battleship.vcxproj -> bin\Battleship_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\jjmad\Downloads\of_v0.9.8_vs_release (1)\of_v0.9.8_vs_release\export\vs\Win32\
